@@ -26,4 +26,5 @@ int main() {
 
 
 //zadanie 4
-//conflict
+
+//answers
