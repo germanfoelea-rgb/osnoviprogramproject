@@ -26,5 +26,3 @@ int main() {
 
 
 //zadanie 4
-
-//answer
