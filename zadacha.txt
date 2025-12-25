@@ -27,4 +27,4 @@ int main() {
 
 //zadanie 4
 
-//answer
+//answers done
