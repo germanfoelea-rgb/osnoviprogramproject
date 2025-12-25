@@ -26,3 +26,4 @@ int main() {
 
 
 //zadanie 4
+//conflict
